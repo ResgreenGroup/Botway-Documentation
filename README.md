@@ -21,16 +21,16 @@
 	- Tag Numbering - For RFID AGVS
 	- Tag Numbering - For AMRs
 	- Route/Tag Command Examples
-		-- Pullbuddy AGV
-		-- Fred AGV
-		-- LilBuddy AMR
-		-- Custom Robot
+		- Pullbuddy AGV
+		- Fred AGV
+		- LilBuddy AMR
+		- Custom Robot
  6. Adding Devices to Botway
 	- Robots
-		-- Pullbuddy AGV
-		-- Fred AGV
-		-- LilBuddy AMR
-		-- Custom Robot
+		- Pullbuddy AGV
+		- Fred AGV
+		- LilBuddy AMR
+		- Custom Robot
 	- Pushbuttons
 	- Stacklights
 	- Scissor Lift LHF
