@@ -2,15 +2,15 @@
  RGGI's Public Repository for Botway Documents, Guides, Etc.
 
 ## Table of Contents
- I. System Requirements
- II. Software Requirements
- III. Network Requirements
- IV. Initial Administrator Setup
- V. Route Setup and Best Practices
- VI. Adding Devices to Botway
- VII. Creating Triggers
- VIII. Collecting Metrics
- IX. Troubleshooting
- X. F.A.Q.
- XI. Appendix
+ 1. System Requirements
+ 2. Software Requirements
+ 3. Network Requirements
+ 4. Initial Administrator Setup
+ 5. Route Setup and Best Practices
+ 6. Adding Devices to Botway
+ 7. Creating Triggers
+ 8. Collecting Metrics
+ 9. Troubleshooting
+ 10. F.A.Q.
+ 11. Appendix
  
